@@ -7,3 +7,4 @@ Bu repo da patika.dev de bulunan SQL patikası ödevleri bulunmaktadır.
 - [Ödev4](Ödevler/Odev4.sql) - DISTINC ve COUNT komutu
 - [Ödev5](Ödevler/Odev5.sql) - LIMIT , OFFSET ve ORDERBY komutu
 - [Ödev6](Ödevler/Odev6.sql) - Aggregate Fonksiyonlar
+- [Ödev7](Ödevler/Odev7.sql) - GROUP BY ve HAVING komutları
