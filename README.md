@@ -8,3 +8,4 @@ Bu repo da patika.dev de bulunan SQL patikası ödevleri bulunmaktadır.
 - [Ödev5](Ödevler/Odev5.sql) - LIMIT , OFFSET ve ORDERBY komutu
 - [Ödev6](Ödevler/Odev6.sql) - Aggregate Fonksiyonlar
 - [Ödev7](Ödevler/Odev7.sql) - GROUP BY ve HAVING komutları
+- [Ödev8](Ödevler/Odev8.sql) - CREATE, UPDATE, DELETE ve INSERT komutları
