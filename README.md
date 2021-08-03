@@ -12,3 +12,4 @@ Bu repo da patika.dev de bulunan SQL patikası ödevleri bulunmaktadır.
 - [Ödev9](Ödevler/Odev9.sql) - INNER JOIN 
 - [Ödev10](Ödevler/Odev10.sql) - LEFT,FULL,RIGHT JOIN 
 - [Ödev11](Ödevler/Odev11.sql) - UNION, INTERSECT, EXCEPT komutları 
+- [Ödev12](Ödevler/Odev12.sql) - Subqueries 
